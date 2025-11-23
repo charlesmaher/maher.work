@@ -7,7 +7,9 @@
 </svelte:head>
 
 <div class="m-4">
-	<h1 class="mb-4 text-5xl">3D Design</h1>
+	<h1 class="mb-4 text-5xl">
+		<a class="text-blue-900 underline" href="/">Charles Maher</a>&nbsp;&gt; 3D Design
+	</h1>
 	<p>Every design pictured here was created by me, usually in Autodesk Fusion or FreeCAD.</p>
 </div>
 <div class="m-4 flex flex-wrap items-start justify-center gap-4">
