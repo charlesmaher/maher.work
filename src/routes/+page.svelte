@@ -29,7 +29,7 @@
 	</div>
 	<div class="absolute top-10 flex w-full justify-center text-5xl">
 		<span class="text-right md:flex-1">Charles</span>&nbsp;<span
-			class="text-left md:flex-1 md:font-sans md:text-purple-950">Maher</span
+			class="text-left md:flex-1 md:text-purple-950">Maher</span
 		>
 	</div>
 </main>
