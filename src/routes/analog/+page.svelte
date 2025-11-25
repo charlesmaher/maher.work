@@ -6,7 +6,7 @@
 	<title>Charles Maher | Analog</title>
 </svelte:head>
 
-<div class="m-4">
+<div class="m-4 text-center">
 	<h1 class="mb-4 text-5xl">
 		<a class="text-blue-900 underline" href="/">Charles Maher</a>&nbsp;&gt; 3D Design
 	</h1>
