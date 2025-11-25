@@ -1,0 +1,13 @@
+-- Rust - 80:100 What C++ should've been
+-- Julia - 70:100 Python, if Python was good
+My favourite language to solve Advent of Code puzzles with.
+Pluto.jl is fantastic!
+-- C - 50:10
+I respect C, but I generally prefer to avoid writing new software in it.
+-- C++ - 50:0
+I understand why people prefer C++ over C, but RAII feels tacked-on and other languages implement it far better.
+-- JavaScript - 95:30
+Type annotations are entirely necessary for good JavaScript, but JSDoc is terrible syntax. Why not just use TypeScript?
+-- TypeScript - 85:70 Fixes as many of JavaScript's mistakes as it can
+But it's still far from perfect.
+-- Go - 30:10
